@@ -1,4 +1,4 @@
-# AURA - Tomato Ripeness Checker
+# AURA - Automated Unripe/Ripe Analyzer
 
 **CSC 126 – Computer Vision Midterm Project** (Python + OpenCV)
 
