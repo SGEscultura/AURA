@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Files the app creates while running
+ripeness_log.csv
+error_log.txt
+snapshots/
+image_test_log.csv
+image_test_output/
+
+# Packaging (.exe build)
+build/
+dist/
+*.spec
